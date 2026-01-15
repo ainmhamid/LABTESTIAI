@@ -1,0 +1,4 @@
+random 
+numpy>=1.21.0
+streamlit>=1.28.0
+matplotlib>=3.5.0
